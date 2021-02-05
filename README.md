@@ -11,7 +11,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-- :telescope: I'm currently exploring Deno :alien:
+- :telescope: I'm currently exploring GCP :cloud:
 - :hourglass_flowing_sand: Experimenting with JS and learning React
 - :microscope: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
