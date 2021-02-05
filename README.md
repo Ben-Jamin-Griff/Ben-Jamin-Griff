@@ -17,4 +17,4 @@
 - :man_technologist: Researcher at the University of Salford
 - :zap: Fun fact: I love exercise :running: :bike: :beers:
 - :mailbox: Reach out to me at my social media handles: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-griffiths-90292212/)](https://www.linkedin.com/in/benjamin-griffiths-90292212/) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/benjamin-griffiths-90292212/)](https://twitter.com/Ben_Jamin_Griff)
+[![Linkedin Badge](https://img.shields.io/badge/-benjamin-griffiths-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-griffiths-90292212/)](https://www.linkedin.com/in/benjamin-griffiths-90292212/) [![Twitter Badge](https://img.shields.io/badge/-@Ben_Jamin_Griff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ben_Jamin_Griff/)](https://twitter.com/Ben_Jamin_Griff)
