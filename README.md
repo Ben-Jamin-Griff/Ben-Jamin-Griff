@@ -7,7 +7,8 @@
  </abc>
 </h3>
 
-<u>
+Many of my projects are private due to IP and data confidentiality. If you're interesting in hearing about my work or looking to collaborate then please get in touch via email.
+You simply have to be on email these days...
 
 <h3 align="left">Languages and Tools:</h3>
 
