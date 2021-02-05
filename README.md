@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Benjamin Griffiths.<br>
   <br> I'm a researcher and data scientist working at the University of Salford. <br>
   <br> Many of my projects are private due to IP and data confidentiality. If you're interesting in hearing about my work or looking to collaborate then please get in touch via email. <br>
-You simply have to be on email these days...
+  <br>You simply have to be on email these days...<br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3>
