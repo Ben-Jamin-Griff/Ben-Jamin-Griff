@@ -21,7 +21,7 @@ Many of my repositories are private due to IP and data confidentiality restricti
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
-- :telescope: Currently learning cloud computing with GCP on Coursera :cloud:
+- :telescope: Currently learning cloud computing with GCP on Coursera :books:
 - :hourglass_flowing_sand: Experimenting with TensorFlow
 - :man_technologist: Researcher at the University of Salford
 - :zap: Fun fact: I'm a self taught developer with a background in sports engineering
