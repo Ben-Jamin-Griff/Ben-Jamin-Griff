@@ -31,6 +31,4 @@ Many of my repositories are private due to IP and data confidentiality restricti
 
 ---
 <h3 align="left">Portfolio</h3>
-The pinned projects below are here to showcase my current dev skillset and form my portfolio.
-
-I'm currently in the process of collating resources for these so come back soon for an update.
+The pinned projects below are here to showcase my current dev skillset and form my portfolio. I'm currently in the process of collating resources for these so come back soon for an update.
