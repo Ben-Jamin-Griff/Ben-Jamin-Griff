@@ -1,6 +1,6 @@
 <h3 align="left">
  <abc>
-  <br>👋 Hi, I'm Benjamin Griffiths.<br>
+  <br>👋 Hi, I'm Benjamin Griffiths... but you can call me Ben.<br>
   <br> I'm a researcher and data scientist working at the University of Salford. <br>
  </abc>
 </h3>
