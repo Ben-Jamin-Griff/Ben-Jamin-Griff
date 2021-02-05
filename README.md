@@ -8,15 +8,14 @@
 </h3> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-    <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-    <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+ <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+ <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+ <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+ <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 </p>
 
 - :telescope: I'm currently leaning cloud computing :cloud:
 - :hourglass_flowing_sand: Experimenting with TensorFlow
-- :microscope: Always ready to collaborate for Dev Experiments
 - :man_technologist: Researcher at the University of Salford
 - :zap: Fun fact: I love exercise :running: :bike: :beers:
 - :mailbox: Reach out to me at my social media handles: <br>
