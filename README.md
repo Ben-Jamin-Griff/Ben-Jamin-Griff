@@ -25,7 +25,7 @@ Many of my repositories are private due to IP and data confidentiality restricti
 - :hourglass_flowing_sand: Experimenting with TensorFlow
 - :man_technologist: Researcher at the University of Salford
 - :zap: Fun fact: I'm a self taught developer with a background in sports engineering
-- :grinning: What I do for fun: I love to exercise and <s>going to the pub</s> zoom beers with friends :running: :bike: :beers:
+- :grinning: What I do for fun: I love exercise and <s>going to the pub</s> zoom beers with friends :running: :bike: :beers:
 - :mailbox: Get it touch on social media: <br>
 [![Linkedin Badge](https://img.shields.io/static/v1?label=linkedin&message=benjamin-griffiths&color=blue&link=https://www.linkedin.com/in/benjamin-griffiths-90292212/)](https://www.linkedin.com/in/benjamin-griffiths-90292212/) [![Twitter Badge](https://img.shields.io/badge/-@Ben_Jamin_Griff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ben_Jamin_Griff/)](https://twitter.com/Ben_Jamin_Griff)
 ---
