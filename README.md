@@ -28,7 +28,8 @@ Many of my repositories are private due to IP and data confidentiality restricti
 - :grinning: What I do for fun: I love exercise and <s>going to the pub</s> zoom beers with friends :running: :bike: :beers:
 - :mailbox: Reach out to me at my social media handles: <br>
 [![Linkedin Badge](https://img.shields.io/static/v1?label=linkedin&message=benjamin-griffiths&color=blue&link=https://www.linkedin.com/in/benjamin-griffiths-90292212/)](https://www.linkedin.com/in/benjamin-griffiths-90292212/) [![Twitter Badge](https://img.shields.io/badge/-@Ben_Jamin_Griff-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ben_Jamin_Griff/)](https://twitter.com/Ben_Jamin_Griff)
-
+---
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jamin1990/0" alt="Recent Article 0"> 
 ---
 <h3 align="left">Portfolio</h3>
 The pinned projects below are here to showcase my current dev skillset and form my portfolio. I'm currently in the process of collating resources for these so come back soon for an update.
