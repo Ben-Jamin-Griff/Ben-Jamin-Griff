@@ -34,8 +34,8 @@ Many of my repositories are private due to IP and data confidentiality restricti
 #<h3 align="left">Medium Articles</h3>
 #Read about some of my projects. 
 #<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jamin1990/0"><img src="https://github-readme-medium-recent-#article.vercel.app/medium/@jamin1990/0" alt="Recent Article 0">
---->
 ---
 
 <h3 align="left">Portfolio</h3>
 The pinned projects below make up my portfolio of work. Take a look at the Medium articles above for a deep dive on each project.
+--->
