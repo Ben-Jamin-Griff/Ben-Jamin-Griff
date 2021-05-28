@@ -4,7 +4,7 @@
   <br> I'm a researcher and data scientist working at the University of Salford. <br>
  </abc>
 </h3>
-My work repositories are private due to interlectual property and data confidentiality restrictions. If you're interested in hearing about my work or looking to collaborate, please get in touch via email. <br>
+My work repositories are private due to interlectual property and data confidentiality restrictions. If you're interested in hearing more about my work or looking to collaborate, please get in touch via email. <br>
 <br>You simply have to be on email these days... <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
